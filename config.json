@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userurocess",
+        "uuid": 6988102,
+        "checksum": "893sz"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
